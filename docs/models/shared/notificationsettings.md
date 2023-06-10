@@ -1,0 +1,12 @@
+# NotificationSettings
+
+
+## Fields
+
+| Field                                                                             | Type                                                                              | Required                                                                          | Description                                                                       |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| `incomingMeldFrequency`                                                           | [IncomingMeldFrequencyEnum](../../models/shared/incomingmeldfrequencyenum.md)     | :heavy_minus_sign:                                                                | N/A                                                                               |
+| `smsNotifications`                                                                | *boolean*                                                                         | :heavy_minus_sign:                                                                | N/A                                                                               |
+| `successfulMeldFrequency`                                                         | [SuccessfulMeldFrequencyEnum](../../models/shared/successfulmeldfrequencyenum.md) | :heavy_minus_sign:                                                                | N/A                                                                               |
+| `timezone`                                                                        | [TimezoneEnum](../../models/shared/timezoneenum.md)                               | :heavy_minus_sign:                                                                | N/A                                                                               |
+| `timezoneHasBeenSet`                                                              | *boolean*                                                                         | :heavy_check_mark:                                                                | N/A                                                                               |
